@@ -1,8 +1,10 @@
-# Thyago de Sousa Gonçalves
+<div style="text-align: center;">
+  <h1>Thyago de Sousa Gonçalves</h1>
+  <p>Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz e me interesso pela parte de back-end e segurança da informação.</p>
 
-<p align="center">Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz e me interesso pela parte de back-end e segurança da informação. 
+  <h3 align="left">Connect with me!</h3>
+</div>
 
-<h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
@@ -84,21 +86,17 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-
-<p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thygasousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=thygasousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000&text_color=00BFFF&icon_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
+    alt="GitHub stats"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygasousa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <a href="https://github.com/thygasousa/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygasousa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000&text_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
+      alt="Most Used Languages"
+    />
+  </a>
+</div>
 
-</p>
+

@@ -4,7 +4,7 @@
   Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz e me interesso pela parte de back-end e segurança da informação.
 </p>
 
-<h3 align="center">Connect with me!</h3>
+<h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)

@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div aling="center">
   <h1>Thyago de Sousa Gonçalves</h1>
   <p>Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz e me interesso pela parte de back-end e segurança da informação.</p>
 

@@ -96,7 +96,7 @@
   
   <a href="https://github.com/thygasousa/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygasousa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000&text_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygasousa&line_height=10&card_width=290&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000&text_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
       alt="Most Used Languages"
       style="border-radius: 3px; border: 2px solid #00BFFF;"
     />

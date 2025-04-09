@@ -1,27 +1,16 @@
 # Thyago de Sousa Gonçalves
 
-Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz e me interesso pela parte de back-end e segurança da informação. Aqui está meu canal do Youtube "[Thygassousa](https://www.youtube.com/@thygasousa)" onde vou passar um pouco de projetos, conhecimentos do mundo da tecnologia.
+<p align="center">Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz e me interesso pela parte de back-end e segurança da informação. 
 
-<p align="left">
-    <a href="https://github.com/Thygassousa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Thygassousa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-     <a href="https://github.com/Thygassousa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Thygassousa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -79,11 +68,22 @@ Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
 
 <p>
   <img 

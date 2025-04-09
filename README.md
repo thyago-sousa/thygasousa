@@ -1,8 +1,6 @@
 # Thyago de Sousa Gonçalves
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz. Aqui está meu canal do Youtube "[Thygassousa](https://www.youtube.com/@thygasousa)" onde vou passar um pouco de projetos, conhecimentos do mundo da tecnologia.
+Me chamo Thyago de Sousa Gonçalves, tenho 19 anos e nasci em São Bernardo do Campo - SP. Concluí o ensino médio na ETEC Lauro Gomes junto ao curso técnico em informática para internet. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema Luigi Papaiz e me interesso pela parte de back-end e segurança da informação. Aqui está meu canal do Youtube "[Thygassousa](https://www.youtube.com/@thygasousa)" onde vou passar um pouco de projetos, conhecimentos do mundo da tecnologia.
 
 <p align="left">
     <a href="https://github.com/Thygassousa?tab=followers">

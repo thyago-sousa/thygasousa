@@ -105,14 +105,14 @@
   <h3>* GitHub Stats *</h3>
   <br>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=thygasousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000&text_color=00BFFF&icon_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
+    src="https://github-readme-stats.vercel.app/api?username=thyago-sousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000&text_color=00BFFF&icon_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
     alt="GitHub stats"
     style="margin-right: 10px; border-radius: 3px; border: 2px solid #00BFFF;"
   />
   
   <a href="https://github.com/thygasousa/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygasousa&line_height=10&card_width=290&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000&text_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-sousa&line_height=10&card_width=290&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000&text_color=00BFFF&title_color=00BFFF&border_color=00BFFF" 
       alt="Most Used Languages"
       style="border-radius: 3px; border: 2px solid #00BFFF;"
     />

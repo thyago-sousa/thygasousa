@@ -30,4 +30,4 @@ root@root:~$ cat tools.txt
 
 root@root:~$ cat tryhack.png
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/thyago.goncalves.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5369911" style='border:none;'></iframe>
